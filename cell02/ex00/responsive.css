@@ -1,0 +1,15 @@
+  table,
+  th {
+      border: 1px solid black;
+      border-collapse: collapse;
+      width: 1000px;
+      height: 600px;
+  }
+  
+  .hello {
+    background-color: aqua;
+  }
+
+  .world {
+    background-color: yellow;
+  }
