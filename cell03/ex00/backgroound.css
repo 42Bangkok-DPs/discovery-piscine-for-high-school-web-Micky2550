@@ -1,3 +1,13 @@
-button {
+body {
+    background-color: aliceblue;
+}
+
+.cen {
     font-size: 150px;
+    max-width: fit-content;
+    margin-inline: auto;
+}
+
+button {
+    font-size: 120px;
 }
